@@ -176,9 +176,11 @@ h1{
 }
 .inputs{
     display: flex;
+    padding:30px;
 }
 .inputs1{
     display: flex;
+    padding:30px;
 }
 ::placeholder { 
     color: #7D0202;
