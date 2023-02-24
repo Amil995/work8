@@ -242,5 +242,8 @@ h1{
     margin-top: 50px;
 }
 
+ ::placeholder{
+    padding: 30px;
+  }
 
 
