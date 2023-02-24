@@ -176,14 +176,17 @@ h1{
 }
 .inputs{
     display: flex;
-    padding:30px;
-    padding:1rem 2rem;
 }
 .inputs1{
     display: flex;
-    padding:30px;
-    padding:1rem 2rem;
 }
+.inputs-placeholder{
+    padding:20px;
+}
+.inputs1-placeholder{
+    padding:20px;
+}
+
 ::placeholder { 
     color: #7D0202;
     opacity: 1;
