@@ -248,8 +248,17 @@ margin-left: 188px;
     font-weight:600;
 }
 
-
 .third:hover{
-width:110%;
-height:110%;
+   transition: 0;
+   box-shadow: 10px 5px 5px rgb(180, 44, 3);
 }
+.second:hover{
+    transition: 0;
+    box-shadow: 10px 5px 5px rgb(180, 44, 3);
+ }
+ .first:hover{
+    transition: 0;
+    box-shadow: 10px 5px 5px rgb(180, 44, 3);
+ }
+
+
